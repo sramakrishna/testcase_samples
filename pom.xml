@@ -2,13 +2,14 @@
   	
 	<modelVersion>4.0.0</modelVersion>
 
+<!--
 	<parent>
 		<groupId>com.qualcomm.ems</groupId>
 		<artifactId>commonPom</artifactId>
 		<version>2.0.0</version>
 	</parent>
-	
-  <groupId>com.qualcomm.pds.etp</groupId>
+-->	
+  <groupId>com.ignitedcoders.app</groupId>
   <artifactId>Testing</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <name>Testing</name>
